@@ -40,7 +40,7 @@ const Services = () => {
             Best Coffee in Town
           </h1>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5  place-items-end">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5  place-items-center">
 
 
           {ServiceData.map((data, index) => {
